@@ -1,0 +1,1 @@
+Cuando detecto características y comportamientos iguales, entonces significa que debo realizar una abstracción.
